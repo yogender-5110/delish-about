@@ -209,7 +209,7 @@ slide-part{width: 100%; height: auto; border: 2px solid red; background-color: g
 
 @media(max-width: 768px){.news input{padding: 10px ; width:100% ;}.news a{}}
 
-
+/* footer */
 
 .footer-part{width: 100%; height: auto; border 1px solid darkred; padding: 50px 0; background-color: #292728;}
 .footer-part .img-foot{width: auto; height: auto; border 2px solid darkred; padding: 25px;}
